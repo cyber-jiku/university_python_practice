@@ -57,5 +57,4 @@ You can try the exercises either:
   <hr style="width: 50%; border: 1px solid #000;">
 </p>
 
-![Welcome GIF](https://tenor.com/en-GB/view/banner-gif-25343999)
-
+![Thanks for reading!](https://tenor.com/en-GB/view/banner-gif-25343999)
