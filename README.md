@@ -17,8 +17,8 @@ Exercises are organized by **year** and then by **week**:
     <ul>
       <li>week-01/
         <ul>
-          <li>exercise1.py</li>
-          <li>exercise2.py</li>
+          <li>exercise1</li>
+          <li>exercise2</li>
         </ul>
       </li>
       <li>week-02/
