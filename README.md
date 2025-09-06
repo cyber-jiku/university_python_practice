@@ -12,18 +12,18 @@ These exercises are **for learning only** and are **not graded coursework soluti
 Exercises are organized by **year** and then by **week**:
 
 university_python_practice/
-│
-├─ README.md
-├─ year-1/
-│  ├─ week-01/
-│  │  ├─ exercise1.py
-│  │  └─ exercise2.py
-│  ├─ week-02/
-│  └─ ...
-├─ year-2/
-│  └─ ...
-└─ year-3/
-   └─ ...
+<br>│</br>
+<br>├─ README.md</br>
+<br>├─ year-1/</br>
+<br>│  ├─ week-01/</br>
+<br>│  │  ├─ exercise1.py</br>
+<br>│  │  └─ exercise2.py</br>
+<br>│  ├─ week-02/</br>
+<br>│  └─ ...</br>
+<br>├─ year-2/</br>
+<br>│  └─ ...</br>
+<br>└─ year-3/</br>
+<br>   └─ ...</br>
 
 Each week folder contains individual Python scripts for exercises and practice challenges.
 
