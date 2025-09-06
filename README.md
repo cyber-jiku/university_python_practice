@@ -15,15 +15,15 @@ university_python_practice/
 <ul>│</ul>
 <ul>├─ README.md</ul>
 <ul>├─ year-1/</ul>
-<br>│  ├─ week-01/</br>
-<br>│  │  ├─ exercise1.py</br>
-<br>│  │  └─ exercise2.py</br>
-<br>│  ├─ week-02/</br>
-<br>│  └─ ...</br>
-<br>├─ year-2/</br>
-<br>│  └─ ...</br>
-<br>└─ year-3/</br>
-<br>   └─ ...</br>
+<ul>│  ├─ week-01/</ul>
+<ul>│  │  ├─ exercise1.py</ul>
+<ul>│  │  └─ exercise2.py</ul>
+<ul>│  ├─ week-02/</ul>
+<ul>│  └─ ...</ul>
+<ul>├─ year-2/</ul>
+<ul>│  └─ ...</ul>
+<ul>└─ year-3/</ul>
+<ul>   └─ ...</ul>
 
 Each week folder contains individual Python scripts for exercises and practice challenges.
 
