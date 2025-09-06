@@ -52,3 +52,9 @@ You can try the exercises either:
 
 1. **Online** – Copy the code into an [online Python compiler](https://www.programiz.com/python-programming/online-compiler/) and run.  
 2. **Locally** – If you have Python installed, navigate to the IDE and paste the code and run.
+
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
+</p>
+
+![Banner GIF](https://tenor.com/en-GB/view/banner-gif-25343999)
