@@ -8,7 +8,7 @@ Your company is upgrading its password policy, and the IT security team has deci
 The formula used is:
 
 <p align="center">
-Password Strength Score} = (\text{Password Length} × 5) + (\text{Number of Special Characters} × 10)
+Password Strength Score = (Password Length} × 5) + (Number of Special Characters × 10)
 </p>
 
 ---
