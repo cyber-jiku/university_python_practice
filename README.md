@@ -58,7 +58,7 @@ You can try the exercises either:
 </p>
 
 <p align="center">
-![Thanks for reading!](https://media1.tenor.com/m/Z6Sx7xwWTFAAAAAC/banner.gif)
+  <img src="https://media1.tenor.com/m/Z6Sx7xwWTFAAAAAC/banner.gif" alt="Banner GIF">
 </p>
 
 <p align="center">
