@@ -57,4 +57,10 @@ You can try the exercises either:
   <hr style="width: 50%; border: 1px solid #000;">
 </p>
 
+<p align="center">
 ![Thanks for reading!](https://media1.tenor.com/m/Z6Sx7xwWTFAAAAAC/banner.gif)
+</p>
+
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
+</p>
