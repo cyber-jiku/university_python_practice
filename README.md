@@ -12,9 +12,9 @@ These exercises are **for learning only** and are **not graded coursework soluti
 Exercises are organized by **year** and then by **week**:
 
 university_python_practice/
-<br>│</br>
-<br>├─ README.md</br>
-<br>├─ year-1/</br>
+<ul>│</ul>
+<ul>├─ README.md</ul>
+<ul>├─ year-1/</ul>
 <br>│  ├─ week-01/</br>
 <br>│  │  ├─ exercise1.py</br>
 <br>│  │  └─ exercise2.py</br>
